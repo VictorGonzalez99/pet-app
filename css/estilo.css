@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+.parte1 {
+    background-color: rgb(70, 243, 214);
+    border: 30px;
+    padding: 70px;
+    display: flex;
+    text-align: center;
+}
+
+.titulo1 {
+    text-align: center;
+    margin: 20px 50px 20px 5px;
+    border: 10px;
+    padding: 5px 20px 5px 0px;
+}
+
+.celular {
+    width: 20px 30px;
+    margin: 0px 20px;
+    border: 20px;
+    padding: 20px 60px;
+}
+
+.parte2 {
+    align-content: center;
+    display: flex;
+    margin: 100px 50px;
+    border: 20px;
+}
+
+.cuadro1 {
+    margin: 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.cuadro2 {
+    margin: 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.cuadro3 {
+    margin: 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.parte3 {
+    background-color: rgb(70, 243, 214);
+    text-align: center;
+    border: 30px;
+    padding: 50px 20px;
+}
+
+.imagenes {
+    background-color: rgb(70, 243, 214);
+    display: flex;
+    border: 30px;
+    padding: 50px 20px;
+    margin: 0% auto;
+    justify-content: center;
+}
+
+.imagen1 {
+    border: 30px;
+    padding: 50px 20px;
+}
+
+.imagen2 {
+    border: 30px;
+    padding: 50px 20px;
+}
+
+.imagen3 {
+    border: 30px;
+    padding: 50px 20px;
+}
+
+.imagen4 {
+    border: 30px;
+    padding: 50px 20px;
+}
+
+.especificaciones3 {
+    margin: 40px auto;
+    text-align: center;
+}
+
+.precioscenter {
+    display: flex;
+    justify-content: center;
+}
+
+.Chihuahua {
+    margin: 0px 50px 50px 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.Labrador {
+    margin: 0px 50px 50px 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.Mastiff {
+    margin: 0px 50px 50px 50px;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.piepagina {
+    text-align: center;
+    background-color: rgb(70, 243, 214);
+    border: 30px;
+    padding: 70px;
+}
